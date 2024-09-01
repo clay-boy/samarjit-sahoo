@@ -18,12 +18,6 @@
 
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
-  <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
-    <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
-  </a>
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>
 
